@@ -1,0 +1,16 @@
+link to license
+https://github.com/sourabhv/FlapPyBird/blob/master/LICENSE
+bird, background, and ground images
+https://github.com/sourabhv/FlapPyBird/tree/master/assets/sprites
+sound effects
+https://github.com/sourabhv/FlapPyBird/tree/master/assets/audio
+
+Background music by Eric Matyas
+www.soundimage.org
+
+Font 8 Bit Wonder by Joiro Hatgaya
+https://www.dafont.com/8bit-wonder.font
+
+speaker icons
+https://commons.wikimedia.org/wiki/File:Speaker_Icon.svg
+https://commons.wikimedia.org/wiki/File:Mute_Icon.svg
